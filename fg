@@ -1,0 +1,129 @@
+[1mdiff --git a/resume updated.doc b/resume updated.doc[m
+[1mdeleted file mode 100644[m
+[1mindex 209f047..0000000[m
+[1m--- a/resume updated.doc[m	
+[1m+++ /dev/null[m
+[36m@@ -1,123 +0,0 @@[m
+[31m-[m
+[31m-SANDEEP REDDY[m
+[31m-Email:sandeep.willway@gmail.com[m
+[31m-Contact No: +15144528510[m
+[31m-hello[m
+[31m-QUEBEC.[m
+[31m-[m
+[31m-[m
+[31m-•  2+ years of experience in IT industry in the areas of  Analysis,  Design,[m
+[31m-Development, Implementation  and  Testing  of  Software  Applications  using[m
+[31m-Java/J2EE technologies.[m
+[31m-• Excellent experience with Software Development Life Cycle  (SDLC)  process[m
+[31m-.[m
+[31m-• Expertise in application  development  using  Java/J2EE  components  which[m
+[31m-include JDBC, Servlets, JSP, Java, Beans, Spring, Hibernate.[m
+[31m-• Experience in developing web applications using  technologies  like  HTML,[m
+[31m-CSS XML, Java Script, CSS and  JSP Tag libraries.[m
+[31m-• Have excellent  Relational  Database  understanding  and  experience  with[m
+[31m-Oracle 10g/11i, SQL Server 2008 and MySQL .[m
+[31m-• Strong experience in database  design,  writing  SQL  Queries  and  Stored[m
+[31m-Procedures.[m
+[31m-• Experience in developing code with Eclipse.[m
+[31m-• Worked on  test  driven  software  development  where  Junit  testing  was[m
+[31m-employed.[m
+[31m-• Have extensive  experience  in  building  and  deploying  applications  on[m
+[31m-Web/Application Servers like JBoss AS, Weblogic and Tomcat.[m
+[31m-•  Strong  work  ethic  with  desire  to  succeed   and   make   significant[m
+[31m-contributions to the  organization.  Strong  problem  solving  skills,  good[m
+[31m-communication, interpersonal  skills  and  a  good  team  player.  Have  the[m
+[31m-motivation  to  take  independent  responsibility  as  well  as  ability  to[m
+[31m-contribute and be a productive team member.[m
+[31m-[m
+[31m-Willing to relocate: Anywhere.[m
+[31m-[m
+[31m-Java/J2EE Developer[m
+[31m-Will Way Solutions Pvt. Ltd.,  Bangalore,  India   -  August  2012  to  July[m
+[31m-2013.[m
+[31m-Description:[m
+[31m-GBASS (General Billing and Settlement  System),  a  Java  based  application[m
+[31m-developed to  provide  complete  functionality  of  enrolling,  maintaining,[m
+[31m-billing and settlement of customers  dues/invoices.  Focused  on  developing[m
+[31m-the customer enrolment and maintenance  modules  of  the  application  using[m
+[31m-Java, HTML primarily.[m
+[31m-[m
+[31m-Responsibilities:[m
+[31m-• Design and implementation of  business  logic  using  Entity  and  Session[m
+[31m-Beans to handle transactions and updating of data into the Oracle database.[m
+[31m-• Worked on Core Java  components  Generics,  Collections,  Multi-threading,[m
+[31m-Inheritance and Exception Handling.[m
+[31m-• J2EE framework facilitated the integration & deployment  of  Servlets  and[m
+[31m-JSP on Web Logic.[m
+[31m-• Developed Enterprise Java Beans for the different modules in the system.[m
+[31m-• Developed the presentation layer using the MVC  paradigm,  implemented  by[m
+[31m-Spring Framework.[m
+[31m-• Used JSP as a view in MVC paradigm.[m
+[31m-• Designed and implemented the Hibernate Domain Model for the services.[m
+[31m-• Worked in the adaptation  to  and  the  application  of  rapidly  changing[m
+[31m-technology to business needs.[m
+[31m-• Used Java Script  for rich internet applications and Validation.[m
+[31m-• Commit and Rollback methods were provided for transactions processing.[m
+[31m-• Designed and developed user interfaces using XML and HTML.[m
+[31m-• Used Junit  for  integration  testing  and  performance  testing,  writing[m
+[31m-tester code for Junit to run.[m
+[31m-[m
+[31m-Environment:[m
+[31m-Java, Servlets, JSP, JDBC, Hibernate,  Spring,  Web  Services  (SOAP),  Java[m
+[31m-Script, CSS, Junit, HTML, XML, Web Logic, Eclipse, Windows.[m
+[31m-[m
+[31m-Jr. Java Developer[m
+[31m-TenXLabs Technologies, Hyderabad  (August 2011 - June 2012).[m
+[31m-[m
+[31m-Description:[m
+[31m-Amgen Tissue Bank  (ATB)  is  a  web-based  intranet-delivered  system.  The[m
+[31m-Tissue Bank was developed to serve as a repository for all tissues  used  at[m
+[31m-Amgen for research and drug  development  purposes.  This  service  provides[m
+[31m-Amgen with  central  ordering,  receiving,  and  data  tracking  capability,[m
+[31m-freeing researchers to do research.  These tools  are  managed  through  the[m
+[31m-ATB computer system, where researchers can search for samples  or  Untreated[m
+[31m-Xenografts stored In-house,  order  them  specifically  for  their  research[m
+[31m-needs and retrieve any data and images  associated  with  them.  ATB  System[m
+[31m-also provides XML-based Sample Data Import capability that  integrates  with[m
+[31m-the Request and ordering process.[m
+[31m-[m
+[31m-Responsibilities:[m
+[31m-• Involved in Developing the application[m
+[31m-• Add/ Update  Details[m
+[31m-• Developed the presentation layer using JSP and Servlets with Eclipse IDE[m
+[31m-• Developed JavaScript for client side validations[m
+[31m-• Developed test cases for unit level testing using JUnit[m
+[31m-• Involved in writing queries to extract data from the Database[m
+[31m-• Involved in testing complete flow of modules[m
+[31m-• Involved in Data Modeling  and  Database  Management  Created  tables  and[m
+[31m-schema for the Database.[m
+[31m-• Developed test cases and was involved in Unit Testing and User  acceptance[m
+[31m-testing. Involved in Bug Fixing[m
+[31m-• Used repository as a version control system[m
+[31m-[m
+[31m-Environment:[m
+[31m-Eclipse, Windows, Java, JDBC, Servlets,  JSP  ,  XML,  HTML,  MySQL,  JUnit,[m
+[31m-JavaBeans, JavaScript and EJB.[m
+[31m-EDUCATION:[m
+[31m-Masters in Quality Systems Engineering[m
+[31m-Concordia University, Montreal. (September 2013-July 2015)[m
+[31m-Bachelors in Electronics and Communication Engineering.[m
+[31m-Jawaharlal Nehru Technological University, Hyderabad.[m
+[31m-[m
+[31m-TECHNICAL SKILLS[m
+[31m-|Skill                |Experienced                |Awareness            |[m
+[31m-|Programming Skills   |Java                       |C                    |[m
+[31m-|Operating Systems    |Windows                    |                     |[m
+[31m-|Database Software    |Oracle, MySQL              |                     |[m
+[31m-|Web Technologies     |HTML, XML, CSS ,JavaScript |AJAX                 |[m
+[31m-|JSE Technologies     |JDBC                       |                     |[m
+[31m-|JEE Technologies     |Servlets, JSP              |                     |[m
+[31m-|Servers              |JBoss, Tomcat              |Servicemix           |[m
+[31m-|Frameworks           |Spring                     |                     |[m
+[31m-|ORM Software         |Hibernate                  |                     |[m
+[31m-|SOA                  |Web Services(SOAP)         |                     |[m
+[31m-|IDE                  |Eclipse                    |                     |[m
+[31m-|Tools                |Log4J,JUnit,MAVEN,GitHub   |                     |[m
+[31m-[m
+[31m-[m
+[31m-[m
